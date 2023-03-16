@@ -10,7 +10,7 @@
 
 * Soluciones
 
-#### Actualmente es un repo en construcción listaré, las tareas que faltan:
+#### Actualmente es un repo en construcción, listaré las tareas que faltan:
 
 * Resumen inicial: CP 1-3.
 
