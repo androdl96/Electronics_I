@@ -14,6 +14,6 @@
 
 * Resumen inicial: CP 1-3, 8.
 
-* Solución: CP 1 ej 5 y 6, CP3 ej 1b), CP5 ej 5 y 6, CP8 detallar más ej 2,3,4.
+* Solución: CP 1 ej 5 y 6, CP3 ej 1b), CP5 ej 5 y 6, CP8 detallar más ej 2,3,4, CP9 Detallar ej 7.
 
 #### Nota: En cada CP se añadieron los .tex para modificar fácilmente en los próxmos cursos.
